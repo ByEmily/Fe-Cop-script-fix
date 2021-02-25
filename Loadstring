@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Lukiann/Fe-Cop-script-fix/main/FIX"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ByEmily/Fe-Cop-script-fix/main/FIX"))()
 getgenv().LoadLibrary = function(a)
 local t = {}
